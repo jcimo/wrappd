@@ -4,18 +4,21 @@
 
   # https://search.nixos.org/packages
   packages = [
+    pkgs.cmake
+    pkgs.git
+    pkgs.gnumake
     pkgs.jekyll
-    pkgs.ruby_3_4
-    pkgs.rubyPackages_3_4.github-pages
-    pkgs.rubyPackages_3_4.jekyll
-    pkgs.zsh
+    pkgs.libgcc
+    pkgs.ruby
+    pkgs.rubyPackages.github-pages
+    pkgs.rubyPackages.jekyll
   ];
 
   idx.extensions = [
     "rebornix.ruby"
     "wingrunr21.vscode-ruby"
-    "dracula-theme.theme-dracula"
     "redhat.vscode-yaml"
-    "sibiraj-s.vscode-scss-formatter"
+    "sissel.shopify-liquid"
+    "dracula-theme.theme-dracula"
   ];
 }
