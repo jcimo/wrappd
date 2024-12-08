@@ -1,0 +1,112 @@
+---
+---
+
+.doto-regular {
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "ROND" 0;
+}
+
+.doto-bold {
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-variation-settings: "ROND" 0;
+}
+
+.chakra-petch-light {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.chakra-petch-regular {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.chakra-petch-medium {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.chakra-petch-semibold {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.chakra-petch-bold {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.chakra-petch-light-italic {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.chakra-petch-regular-italic {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.chakra-petch-medium-italic {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.chakra-petch-semibold-italic {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.chakra-petch-bold-italic {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+h1 {
+    @extend .doto-regular;
+    font-size: 3rem;
+}
+
+h2 {
+    @extend .doto-regular;
+    font-size: 4rem;
+}
+
+h3 {
+    @extend .chakra-petch-bold;
+    text-shadow: 2px 3px 5px white;
+}
+
+h4 {
+    @extend .chakra-petch-light;
+}
+
+body {
+    @extend .chakra-petch-regular;
+    background: linear-gradient(to bottom, #ff6924, #6c42f5);
+}
+
+.icon {
+    font-size: 2rem;
+    margin-right: 1rem;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
