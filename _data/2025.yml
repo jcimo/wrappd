@@ -1,0 +1,111 @@
+# albums
+
+- title: MUSIC
+  artist: Playboi Carti
+  rank: 1
+  artwork: https://lh3.googleusercontent.com/gaUwrBGojoyHMZ0sgOSatOwoyNYZDZIN0avF4vPpRGeKEY2yDmCCH9tkZFM4ih7yFxTEVepLj2ehbR_K
+  bandcamp:
+  apple: https://music.apple.com/us/album/music-sorry-4-da-wait/1804427542
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_n-ki0FnEo340j1AejcsG2cuAo9Cs7aQV0
+  spotify:
+  released: 2025-03-14
+  minutes: 77
+
+- title: Pinball II
+  artist: MIKE & Tony Seltzer
+  rank: 2
+  artwork: https://lh3.googleusercontent.com/K9lgnSohz3c9GuyhJQo9RsatpYlJhcTCi3eaQjkyqfDMEkqTPIw9SutKtKvVxJNp4Ng1Tu9gOl4gAfU
+  bandcamp: https://mikelikesrap.bandcamp.com/album/pinball-ii
+  apple: https://music.apple.com/us/album/pinball-ii/1803186824
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_m2kC1E-68C30vOC6uXD38PoNl6JJgqOy8
+  spotify:
+  released: 2025-05-07
+  minutes: 33
+
+- title: Chrysalis
+  artist: she's green
+  rank: 3
+  artwork: https://lh3.googleusercontent.com/cEMi3l0utPYA8tPPf35h40UJw9zyvlYuPfcx4p7AXehEfnqm2N0FVASeFJHIPeAR_6JuSPIRmtXU4QTZWQ
+  bandcamp: https://shesgreen.bandcamp.com/album/chrysalis
+  apple: https://music.apple.com/us/album/chrysalis-ep/1822854765
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nNzYMejKrAyETGQKqJgwoQZYkPFmM6VaA
+  spotify:
+  released: 2025-08-25
+  minutes: 17
+
+- title: Sinister Grift
+  artist: Panda Bear
+  rank: 4
+  artwork: https://lh3.googleusercontent.com/s5ouo3TUpxHzv4PolWeq-oA4ctjsqShjQCgqGe9o7wHY6PKzMhF8b2IanZ5pZCe8DPgJbHJbVFEejFQ
+  bandcamp: https://pandabearmusic.bandcamp.com/album/sinister-grift
+  apple: https://music.apple.com/us/album/sinister-grift/1761198973
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mgDUvSi1yFc9Sr-s1BmCGZKBFGravXSEc
+  spotify:
+  released: 2025-02-28
+  minutes: 45
+
+- title: DON'T TAP THE GLASS
+  artist: Tyler, The Creator
+  rank: 5
+  artwork: https://lh3.googleusercontent.com/_tBCioaQ1OtM_gmgLY_E3VD3nZ4NaZMCnouEDYs-UptZ7zeB6bUwaMyTycZEg9MZihTTmYbIMLB__-Y
+  bandcamp:
+  apple: https://music.apple.com/us/album/dont-tap-the-glass/1827715784
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kcaRWdKExi6Op8xtUMc_3h42ADIssBfdA
+  spotify:
+  released: 2025-07-21
+  minutes: 28
+
+- title: GOLLIWOG
+  artist: billy woods
+  rank: 6
+  artwork: https://lh3.googleusercontent.com/tfltZqmMWC4cLPKS0jLtPuHGumVpIoG_hf_Xsck-6cYifni-kndXJ14tUpGZpE-5rdv7-ObqcU-OdX4
+  bandcamp: https://billywoods.bandcamp.com/album/gowillog
+  apple: https://music.apple.com/us/album/golliwog/1793411266
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kN0WXopZ5qYKv5FmW4jKHL_Gdqh8cZLmg
+  spotify:
+  released: 2025-01-01
+  minutes: 1
+
+- title: Instant Holograms On Metal Film
+  artist: Stereolab
+  rank: 7
+  artwork: https://lh3.googleusercontent.com/MS6palel3Z4uEFhiDORPHIkJeXeD3dHtpJJ7ienrd1QdEvL6Kf10GHdYChl_MRKyLqaTQ53YiKB3Z26E
+  bandcamp: https://stereolab.bandcamp.com/album/instant-holograms-on-metal-film
+  apple: https://music.apple.com/us/album/instant-holograms-on-metal-film/1802636797
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mssd9d8JVUn9UkEaa6RjzEZ6R4e8RucJo
+  spotify:
+  released: 2025-05-23
+  minutes: 59
+
+- title: We Live In A Society
+  artist: JPEGMAFIA & Flume
+  rank: 8
+  artwork: https://lh3.googleusercontent.com/lC7vwX_dKTwRKm6EOoQgWg8juVlcRi2MgJ_zSBKiGN2IC2KYNAjw47ZTEg15o3I0ygBqNqXg_VZRpas
+  bandcamp:
+  apple: https://music.apple.com/us/album/we-live-in-a-society-ep/1800239071
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_njMZh6pxS23RTMJciJubccMdDfkLIge2Y
+  spotify:
+  released: 2025-05-02
+  minutes: 16
+
+- title: They Left Me With The Sword
+  artist: Paris Texas
+  rank: 9
+  artwork: https://lh3.googleusercontent.com/mDjulxo9IkyERrZn4sTQCURttxW7EYXoOjOXRxeW4qHs6bKMNSMNnWzUpnqCZSp45NBkmEKHKvFGNEI
+  bandcamp:
+  apple: https://music.apple.com/us/album/they-left-me-with-the-sword/1792976722
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_leT7IbdtN6Momm0Os6kZWqwMF1rludBj0
+  spotify:
+  released: 2025-02-21
+  minutes: 19
+
+- title: RHODA
+  artist: Kal Bankx
+  rank: 10
+  artwork: https://lh3.googleusercontent.com/kUsp9czHykIZ7WWcwEJEmBldOKL5lin5PPr_3FS43IQH1t2unMcnOMYqiHjDrOMTW4KUJAIo4rYbHgo
+  bandcamp:
+  apple: https://music.apple.com/us/album/rhoda/1831064548
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_khkMnYpFjCvBdlMDh80Gel57WX5bm-Gt0
+  spotify:
+  released: 2025-08-15
+  minutes: 81
